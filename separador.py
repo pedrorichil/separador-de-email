@@ -3,7 +3,7 @@ from colorama import Fore, Back, Style
 colorama.init(autoreset=True)
 
 
-print(Fore.GREEN + '\n\n SEPARADOR DE EMAIL POR PROVEDOR BY: MRX \n\n')
+print(Fore.GREEN + '\n\n SEPARADOR DE EMAIL POR PROVEDOR BY: Zekry \n\n')
                                                                     
                                                             
 try:
